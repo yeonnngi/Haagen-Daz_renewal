@@ -1,0 +1,104 @@
+@font-face {
+    font-family: '';
+    src: url('ONEMobileOTFBold.eot');
+    src: url('ONEMobileOTFBold.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileOTFBold.woff2') format('woff2'),
+        url('ONEMobileOTFBold.woff') format('woff'),
+        url('ONEMobileOTFBold.ttf') format('truetype'),
+        url('ONEMobileOTFBold.svg#ONEMobileOTFBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ONE Mobile';
+    src: url('ONEMobileBold.eot');
+    src: url('ONEMobileBold.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileBold.woff2') format('woff2'),
+        url('ONEMobileBold.woff') format('woff'),
+        url('ONEMobileBold.ttf') format('truetype'),
+        url('ONEMobileBold.svg#ONEMobileBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ONE Mobile';
+    src: url('ONEMobileLight.eot');
+    src: url('ONEMobileLight.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileLight.woff2') format('woff2'),
+        url('ONEMobileLight.woff') format('woff'),
+        url('ONEMobileLight.ttf') format('truetype'),
+        url('ONEMobileLight.svg#ONEMobileLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('ONEMobileOTFLight.eot');
+    src: url('ONEMobileOTFLight.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileOTFLight.woff2') format('woff2'),
+        url('ONEMobileOTFLight.woff') format('woff'),
+        url('ONEMobileOTFLight.ttf') format('truetype'),
+        url('ONEMobileOTFLight.svg#ONEMobileOTFLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('ONEMobileTitleOTFRegular.eot');
+    src: url('ONEMobileTitleOTFRegular.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileTitleOTFRegular.woff2') format('woff2'),
+        url('ONEMobileTitleOTFRegular.woff') format('woff'),
+        url('ONEMobileTitleOTFRegular.ttf') format('truetype'),
+        url('ONEMobileTitleOTFRegular.svg#ONEMobileTitleOTFRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('ONEMobileOTFRegular.eot');
+    src: url('ONEMobileOTFRegular.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileOTFRegular.woff2') format('woff2'),
+        url('ONEMobileOTFRegular.woff') format('woff'),
+        url('ONEMobileOTFRegular.ttf') format('truetype'),
+        url('ONEMobileOTFRegular.svg#ONEMobileOTFRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ONE Mobile Title';
+    src: url('ONEMobileTitleRegular.eot');
+    src: url('ONEMobileTitleRegular.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileTitleRegular.woff2') format('woff2'),
+        url('ONEMobileTitleRegular.woff') format('woff'),
+        url('ONEMobileTitleRegular.ttf') format('truetype'),
+        url('ONEMobileTitleRegular.svg#ONEMobileTitleRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ONE Mobile';
+    src: url('ONEMobileRegular.eot');
+    src: url('ONEMobileRegular.eot?#iefix') format('embedded-opentype'),
+        url('ONEMobileRegular.woff2') format('woff2'),
+        url('ONEMobileRegular.woff') format('woff'),
+        url('ONEMobileRegular.ttf') format('truetype'),
+        url('ONEMobileRegular.svg#ONEMobileRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
