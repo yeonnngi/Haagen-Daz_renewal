@@ -11,6 +11,16 @@ body,
 html {
   width: 100%;
   background-color: #fbf5df;
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 0px;
+    background-color: #eee;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    width: 10px;
+    background-color: #40061e;
+  }
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
